@@ -8,7 +8,7 @@ I build GenAI pipelines, agentic workflows, and cloud-native data platforms that
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aditya--dubey--ai.github.io-5ee6c4?style=for-the-badge)](https://aditya-dubey-ai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dubey-ai/)
-[![Email](https://img.shields.io/badge/Email-aadiyogii112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadiyogii112@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adi.dubey552%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi.dubey552@gmail.com)
 
 </div>
 
@@ -59,6 +59,6 @@ I build GenAI pipelines, agentic workflows, and cloud-native data platforms that
 
 <div align="center">
 
-📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/aditya-dubey-ai/) · [Portfolio](https://aditya-dubey-ai.github.io/) · [Email](mailto:aadiyogii112@gmail.com)
+📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/aditya-dubey-ai/) · [Portfolio](https://aditya-dubey-ai.github.io/) · [Email](mailto:adi.dubey552@gmail.com)
 
 </div>
